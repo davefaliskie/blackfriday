@@ -1,0 +1,14 @@
+{
+  "name": "Roads Audio",
+  "url": "https://roadsaudio.com/black-friday",
+  "description": "Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. Available on iPhone and Android",
+  "category": "lifestyle",
+  "platforms": ["ios", "android"],
+  "deal": "50% off Roads Audio Plus Lifetime, no subscription",
+  "pricing": "lifetime",
+  "price": { "regular": 99.99, "sale": 49.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://roadsaudio.com/favicon/android-chrome-512x512.png"
+}
